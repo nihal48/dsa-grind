@@ -11,7 +11,7 @@ Daily DSA practice in Java — one problem per day, every solution documented wi
 | Week | Topic                         | Target | Done |
 |------|-------------------------------|--------|------|
 | 1    | Arrays + HashMap              | 6      | 6    |
-| 2    | Two Pointers + Sliding Window | 5      | 0    |
+| 2    | Two Pointers + Sliding Window | 6      | 2    |
 | 3    | Binary Search                 | 4      | 0    |
 | 4    | Stack + Monotonic Stack       | 4      | 0    |
 | 5    | Trees (BFS + DFS)             | 6      | 0    |
